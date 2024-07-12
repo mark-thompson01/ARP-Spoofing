@@ -19,7 +19,7 @@ This lab demonstrates how to perform an ARP Spoofing attack also referred to as 
 
 ### Identifying DNS Server IP Address
 
-![Wireshark DNS Server Extraction.PNG](Images/Wireshark%20DNS%20Server%20Extraction)
+![Wireshark DNS Server Extraction.PNG](Images/Wireshark%20DNS%20Server%20Extraction.PNG)
 
 
 
