@@ -11,4 +11,4 @@ This lab demonstrates how to perform an ARP Spoofing attack also referred to as 
 
 ![arpspoof2.PNG](Images/arpspoof2.PNG)
 
-![arpspoof3 arpspoof attack in action.PNG(Images/arpspoof3 arpspoof attack in action.PNG)
+![arpspoof3 arpspoof attack in action.PNG](Images/arpspoof3 arpspoof attack in action.PNG)
