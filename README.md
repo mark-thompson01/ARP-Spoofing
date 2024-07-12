@@ -44,6 +44,8 @@ This lab demonstrates how to perform an ARP Spoofing attack also referred to as 
 
 ![WSEnum4.PNG](Images/WSEnum4.PNG)
 
+### SSDP Enumeration
+
 ![WSEnum5.PNG](Images/WSEnum5.PNG)
 
 ![WSEnum6.PNG](Images/WSEnum6.PNG)
