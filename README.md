@@ -27,6 +27,8 @@ This lab demonstrates how to perform an ARP Spoofing attack also referred to as 
 
 ![Wireshark Enumeration 0.PNG](Images/Wireshark%20Enumeration%200.PNG)
 
+![Wireshark Enumeration 1.PNG](Images/Wireshark%20Enumeration%201.PNG)
+
 
 
 
