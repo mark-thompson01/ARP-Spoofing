@@ -50,6 +50,8 @@ This lab demonstrates how to perform an ARP Spoofing attack also referred to as 
 
 ![WSEnum6.PNG](Images/WSEnum6.PNG)
 
+#### Other Host Information
+
 ![WSEnum7.PNG](Images/WSEnum7.PNG)
 
 
