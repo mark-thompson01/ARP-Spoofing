@@ -30,7 +30,7 @@ This lab demonstrates how to perform an ARP Spoofing attack, also referred to as
 
 ![Wireshark DNS Server Enumeration 6.PNG](Images/Wireshark%20DNS%20Server%20Enumeration%206.PNG)
 
-### NetBIOS Enumeration
+### NetBIOS and Other Information
 
 ![Wireshark Enumeration 0.PNG](Images/Wireshark%20Enumeration%200.PNG)
 
