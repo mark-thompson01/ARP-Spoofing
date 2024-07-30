@@ -61,7 +61,6 @@ This lab demonstrates how to perform an ARP Spoofing attack also referred to as 
 
 
 
-!
 
 
 
