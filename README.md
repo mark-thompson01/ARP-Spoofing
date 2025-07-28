@@ -27,6 +27,16 @@ This lab demonstrates how to perform an ARP Spoofing attack, also referred to as
 
 ---
 
+## 🔁 How to Recreate This Lab
+- Download and install Oracle VirtualBox.
+- Download and Install & Setup Kali Linux on a VM.
+- Use nmap to perform some network host scanning and enumeration.
+- Use arpspoof to initiate a MitM attack on the selected target.
+- Use Wireshark to analyze and retrieve the network traffic of the target.
+
+
+---
+
 ## What I've Learned
 Through this project, I have learned:
 - How to use active recon to narrow down which host on the network to carry out the simulated attack on.
