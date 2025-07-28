@@ -20,6 +20,7 @@ This lab demonstrates how to perform an ARP Spoofing attack, also referred to as
 ## 🛠️ Tech Used
 - Oracle VirtualBox
 - Kali Linux
+- Nmap / NSE - Nmap Scripting Engine
 - arpspoof
 - Wireshark
 
