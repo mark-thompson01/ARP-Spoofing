@@ -17,6 +17,15 @@ This lab demonstrates how to perform an ARP Spoofing attack, also referred to as
 
 ---
 
+## 🛠️ Tech Used
+- Oracle VirtualBox
+- Kali Linux
+- arpspoof
+- Wireshark
+
+
+---
+
 ## What I've Learned
 Through this project, I have learned:
 - How to use active recon to narrow down which host on the network to carry out the simulated attack on.
