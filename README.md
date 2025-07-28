@@ -19,6 +19,10 @@ This lab demonstrates how to perform an ARP Spoofing attack, also referred to as
 
 ## What I've Learned
 Through this project, I have learned:
+- How to use active recon to narrow down which host on the network to carry out the simulated attack on.
+- Gather as much pertinent information as I can on the target host with the use of Nmap.
+- How to initiate a simulated ARP Spoorging (man-in-the-middle) attack with the use of arpspoof.
+- How to analyze the network traffic of the target host with the use of Wireshark. 
 
 
 ---
