@@ -4,6 +4,9 @@ This lab demonstrates how to perform an ARP Spoofing attack, also referred to as
 
 
 ## Table of Contents
+- Performing Active Recon on the target using Nmap
+- Initiating a simulated ARP Spoofing Attack with arpspoof
+- Analyzing the Traffic via Wireshark
 
 
 ---
